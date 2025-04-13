@@ -2,6 +2,15 @@
 
 **log-remover** is a VSCode extension that removes all `console.log()` statements from your codebase. It helps maintain a clean codebase by ensuring that debugging statements are removed before committing or deploying your project.
 
+## Installation
+
+You can install the extension directly from the Visual Studio Code Marketplace:
+
+[![Install from VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/hazardemircan.log-cleaner?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=hazardemircan.log-cleaner)
+
+Or search for `log-remover` inside the Extensions panel in VS Code.
+
+
 ## Features
 
 - **Automatically removes all `console.log()` statements** from your files.
